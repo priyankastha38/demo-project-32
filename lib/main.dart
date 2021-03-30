@@ -5,7 +5,7 @@ void main(){
      MaterialApp(
        home: Scaffold(
          appBar: AppBar(
-           title: Text('app1'),
+           title: Text('DEMO APP'),
          ),
        ),
      )
